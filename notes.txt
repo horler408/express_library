@@ -1,0 +1,24 @@
+npm install eslint --save-dev
+
+npm run lint
+
+express express-locallibrary-tutorial --view=pug
+cd express-locallibrary-tutorial
+npm install
+SET DEBUG=express-locallibrary-tutorial:* & npm start
+DEBUG=express-locallibrary-tutorial:* npm start
+
+PRODUCTION
+npm install dotenv --save
+npm install compression
+npm install helmet
+npm install express-rate-limit
+https://github.com/horler408/express_library.git
+
+MongoPass
+OqI7Atn4mUto5hTb - horlertech
+azolayu - 
+mongodb+srv://<username>:<password>@cluster0.ookqjc0.mongodb.net/?retryWrites=true&w=majority
+
+Github
+https://github.com/horler408/express_library.git
